@@ -1,0 +1,5 @@
+-keepattributes Signature, *Annotation*
+-keep class com.nhdeveloper.nhconnect.data.** { *; }
+-keep class com.google.firebase.** { *; }
+-keep class org.webrtc.** { *; }
+-dontwarn org.webrtc.**

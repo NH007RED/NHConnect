@@ -1,0 +1,7 @@
+# Copy to local.properties (never commit). sdk.dir is added automatically by Android Studio.
+# Only set this when your Realtime Database is not in us-central1:
+FIREBASE_DATABASE_URL=
+# Optional TURN relay (only needed when two phones cannot connect directly, e.g. strict mobile networks):
+TURN_URL=
+TURN_USER=
+TURN_PASS=

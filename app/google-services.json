@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669899309531",
+    "firebase_url": "https://chate-4a047-default-rtdb.firebaseio.com",
+    "project_id": "chate-4a047",
+    "storage_bucket": "chate-4a047.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669899309531:android:846e5c7516a021db4827fe",
+        "android_client_info": {
+          "package_name": "com.nhdeveloper.nhconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669899309531-mu6997t60221hcm8bgddtea2e213k85h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSyMxYfX6djq9A34DbbqqOMk26jXZC_TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669899309531-mu6997t60221hcm8bgddtea2e213k85h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
